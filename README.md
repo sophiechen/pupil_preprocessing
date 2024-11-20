@@ -1,5 +1,6 @@
 # references
 [1] Widmann A, Schröger E, Wetzel N. Emotion lies in the eye of the listener: Emotional arousal to novel sounds is reflected in the sympathetic contribution to the pupil dilation response and the P3. Biol Psychol. 2018 Mar;133:10-17. doi: 10.1016/j.biopsycho.2018.01.010. Epub 2018 Feb 4. PMID: 29378283.
+
 [2] Mathôt S, Vilotijević A. Methods in cognitive pupillometry: Design, preprocessing, and statistical analysis. Behav Res Methods. 2023 Sep;55(6):3055-3077. doi: 10.3758/s13428-022-01957-7. Epub 2022 Aug 26. PMID: 36028608; PMCID: PMC10556184.
 
 
